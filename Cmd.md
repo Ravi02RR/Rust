@@ -21,6 +21,8 @@ This will formate the code
 rustfmt main.rs
 ```
 
+
+
 ## 📚 Access Rust Documentation
 
 Rust's official documentation is full of useful resources to help you along the way. You can open the local version of the documentation by using this command:
@@ -40,4 +42,12 @@ This will open the comprehensive Rust documentation in your default browser, inc
 If you'd prefer to browse the official docs online, visit:
 
 🔗 [Official Rust Documentation](https://rust-lang.github.io/rustup/)
+
+
+
+# cargo
+
+```
+cargo --version
+```
 
